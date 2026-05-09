@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hotel-reservation-system" />
+        <module name="hotel-reservation-system (1)" />
       </profile>
     </annotationProcessing>
   </component>
